@@ -1,0 +1,7 @@
+Computer plays X 0:00:20 tie
+
+Computer plays O 0:00:36 tie
+
+Computer plays O 0:00:48 tie
+
+Computer plays X 0:01:20 X wins
